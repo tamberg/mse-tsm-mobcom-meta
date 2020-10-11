@@ -1,4 +1,4 @@
-# FHNW (iot) Meta
+# MSE TSM MobCom Meta
 Setup used to teach module [TSM_MobCom](https://moodle.msengineering.ch/course/view.php?id=1451), [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) [@tamberg](https://twitter.com/tamberg) for [FHNW](https://www.fhnw.ch/).
 
 ## GitHub Classroom
