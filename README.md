@@ -68,8 +68,8 @@ $ git remote -v</pre>
 ### Syncing Forks with Upstream
 https://help.github.com/articles/syncing-a-fork/
 <pre>$ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
+$ git checkout main
+$ git merge upstream/main
 $ git push</pre>
 
 ### Solving Merge Conflicts
